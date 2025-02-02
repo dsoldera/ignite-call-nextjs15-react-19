@@ -1,6 +1,13 @@
 # Ignite Call NextJs 15 and React 19
 
+## Next Auth
+- Using .env variables
+- api/auth/...
 
+## Prisma
+- `npx prisma init --datasource-provider SQLite`
+- `npx prisma migrate dev`
+- `npx prisma studio` 
 
 ## Deploy on Vercel
 
